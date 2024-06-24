@@ -8,7 +8,7 @@ const boldFontSrc = 'quadraat-bold.ttf';
 const regularFontSrc = 'quadraat.ttf';
 
 // Update canvas dimensions
-canvas.width = 3500;
+canvas.width = 2905
 canvas.height = 822;
 
 // Load fonts
